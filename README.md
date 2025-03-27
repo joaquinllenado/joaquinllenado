@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Joaquin</h1>
+<h1 align="center">Hi, I'm Joaquin 👋</h1>
 <h3 align="center">A passionate Software Engineer from the Bay Area.</h3>
 
-- 🔭 I’m currently working on [flowst8](https://www.flowst8.io/)
+- 🔭 Currently building [flowst8](https://www.flowst8.io/)
 
 - 👨‍💻 All of my projects are available at [https://joaquinpaolollenado.vercel.app/](https://joaquinpaolollenado.vercel.app/)
 
