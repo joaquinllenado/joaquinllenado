@@ -3,7 +3,7 @@
 
 - 🔭 Currently building [flowst8](https://www.flowst8.io/)
 
-- 👨‍💻 All of my projects are available at [https://joaquinpaolollenado.vercel.app/](https://joaquinpaolollenado.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://joaquinpaolollenado.vercel.app/](https://www.joaquinllenado.dev/)
 
 - 📫 How to reach me **joaquinllenado@gmail.com**
 
