@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Joaquin 👋</h1>
 <h3 align="center">A passionate Software Engineer from the Bay Area.</h3>
 
-- 🔭 Currently building [flowst8](https://www.flowst8.io/)
+- 🔭 Currently building [Gatherly](https://www.gatherly.church/)
 
 - 👨‍💻 All of my projects are available at [https://joaquinllenado.dev/](https://www.joaquinllenado.dev/)
 
